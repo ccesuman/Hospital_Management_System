@@ -1,0 +1,28 @@
+D:\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.dll.config
+D:\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.dll
+D:\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.pdb
+D:\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.csproj.CoreCompileInputs.cache
+D:\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.dll
+D:\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.pdb
+D:\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.csproj.AssemblyReference.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.dll.config
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.csproj.AssemblyReference.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.csproj.CoreCompileInputs.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.dll.config
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.csproj.AssemblyReference.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.csproj.CoreCompileInputs.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.dll.config
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\bin\Debug\HealthcareDAL.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.csproj.AssemblyReference.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.csproj.CoreCompileInputs.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareDAL\obj\Debug\HealthcareDAL.pdb

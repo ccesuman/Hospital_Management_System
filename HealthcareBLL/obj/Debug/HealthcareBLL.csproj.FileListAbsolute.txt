@@ -1,0 +1,60 @@
+D:\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.AssemblyReference.cache
+D:\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.CoreCompileInputs.cache
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareBLL.dll
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareBLL.pdb
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.dll
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Common.dll
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Model.dll
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\System.Memory.dll
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.pdb
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.dll.config
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Common.pdb
+D:\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Model.pdb
+D:\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.CopyComplete
+D:\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.dll
+D:\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareBLL.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareBLL.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Common.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Model.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\System.Memory.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.dll.config
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Common.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Model.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.AssemblyReference.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.CoreCompileInputs.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.CopyComplete
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareBLL.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareBLL.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Common.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Model.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\System.Memory.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.dll.config
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Common.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Model.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.AssemblyReference.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.CoreCompileInputs.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.CopyComplete
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareBLL.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareBLL.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Common.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Model.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\System.Memory.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\HealthcareDAL.dll.config
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Common.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\bin\Debug\MediaBrowser.Model.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.AssemblyReference.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.CoreCompileInputs.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.csproj.CopyComplete
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareBLL\obj\Debug\HealthcareBLL.pdb
