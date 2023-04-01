@@ -1,0 +1,6 @@
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HelthCareExcaptionLibrary\bin\Debug\HelthCareExcaptionLibrary.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HelthCareExcaptionLibrary\bin\Debug\HelthCareExcaptionLibrary.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HelthCareExcaptionLibrary\obj\Debug\HelthCareExcaptionLibrary.csproj.AssemblyReference.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HelthCareExcaptionLibrary\obj\Debug\HelthCareExcaptionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HelthCareExcaptionLibrary\obj\Debug\HelthCareExcaptionLibrary.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HelthCareExcaptionLibrary\obj\Debug\HelthCareExcaptionLibrary.pdb
