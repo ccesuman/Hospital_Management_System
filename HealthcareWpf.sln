@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthcareWpf", "HealthcareWpf\HealthcareWpf.csproj", "{0E6CB6DE-7BF5-494B-BDCE-28074C021C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthcareDAL", "HealthcareDAL\HealthcareDAL.csproj", "{7B5DA633-FCE8-470F-A2F3-237A5FCFC681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthcareBLL", "HealthcareBLL\HealthcareBLL.csproj", "{4A96C97F-B6C3-4138-A7BE-F5D8AEDC8404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelthCareExcaptionLibrary", "HelthCareExcaptionLibrary\HelthCareExcaptionLibrary.csproj", "{BA732BA3-EA5E-49DB-9D5C-6621BB1CBA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6CB6DE-7BF5-494B-BDCE-28074C021C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6CB6DE-7BF5-494B-BDCE-28074C021C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6CB6DE-7BF5-494B-BDCE-28074C021C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6CB6DE-7BF5-494B-BDCE-28074C021C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5DA633-FCE8-470F-A2F3-237A5FCFC681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5DA633-FCE8-470F-A2F3-237A5FCFC681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5DA633-FCE8-470F-A2F3-237A5FCFC681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5DA633-FCE8-470F-A2F3-237A5FCFC681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A96C97F-B6C3-4138-A7BE-F5D8AEDC8404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A96C97F-B6C3-4138-A7BE-F5D8AEDC8404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A96C97F-B6C3-4138-A7BE-F5D8AEDC8404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A96C97F-B6C3-4138-A7BE-F5D8AEDC8404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA732BA3-EA5E-49DB-9D5C-6621BB1CBA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA732BA3-EA5E-49DB-9D5C-6621BB1CBA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA732BA3-EA5E-49DB-9D5C-6621BB1CBA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA732BA3-EA5E-49DB-9D5C-6621BB1CBA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33AE59B-DB0B-43AF-A056-BBE68F9DEA9B}
+	EndGlobalSection
+EndGlobal
