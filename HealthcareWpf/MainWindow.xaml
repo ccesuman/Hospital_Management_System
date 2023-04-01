@@ -1,0 +1,27 @@
+﻿<Window x:Class="HealthcareWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HealthcareWpf"
+        mc:Ignorable="d"
+        Title="HealthcareInformation" Height="700" Width="900" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <Grid RenderTransformOrigin="0.499,0.495">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"></RowDefinition>
+            <RowDefinition Height="167*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" OpacityMask="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}">
+            <Button x:Name="insertbtn" Content="Insert" HorizontalAlignment="Left" Margin="30,0,0,0" VerticalAlignment="Center" Width="128" Height="50" FontWeight="Bold" FontSize="16" Click="insertbtn_Click"/>
+            <Button x:Name="updatebtn" Content="Update" HorizontalAlignment="Left" Margin="249,0,0,0" VerticalAlignment="Center" Height="50" Width="124" FontWeight="Bold" FontSize="16"/>
+            <Button x:Name="deletebtn" Content="Delete" HorizontalAlignment="Left" Margin="471,0,0,0" VerticalAlignment="Center" Height="50" Width="121" FontWeight="Bold" FontSize="16" Click="deletebtn_Click"/>
+            <Button x:Name="viewbtn" Content="View" HorizontalAlignment="Left" Margin="649,0,0,0" VerticalAlignment="Center" Height="50" Width="123" Click="viewbtn_Click" FontWeight="Bold" FontSize="16"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Frame x:Name="maincontent"></Frame>
+        </Grid>
+
+    </Grid>
+
+</Window>

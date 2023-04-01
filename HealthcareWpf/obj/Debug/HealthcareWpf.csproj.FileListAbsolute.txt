@@ -1,0 +1,126 @@
+D:\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.exe.config
+D:\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.exe
+D:\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.pdb
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.AssemblyReference.cache
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.SuggestedBindingRedirects.cache
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\MainWindow.g.cs
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\App.g.cs
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf_MarkupCompile.cache
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf_MarkupCompile.lref
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\MainWindow.baml
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.g.resources
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.Properties.Resources.resources
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.GenerateResource.cache
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.CoreCompileInputs.cache
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.exe
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.pdb
+D:\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareBLL.dll
+D:\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.dll
+D:\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareBLL.pdb
+D:\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.pdb
+D:\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.dll.config
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Delete.g.cs
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Insert.g.cs
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Update.g.cs
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\View.g.cs
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Delete.baml
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Insert.baml
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Update.baml
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\View.baml
+D:\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.CopyComplete
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.exe.config
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.exe
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareBLL.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareBLL.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.dll.config
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.AssemblyReference.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Delete.g.cs
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\MainWindow.g.cs
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Update.g.cs
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\View.g.cs
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\App.g.cs
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf_MarkupCompile.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf_MarkupCompile.lref
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Delete.baml
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\MainWindow.baml
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Update.baml
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\View.baml
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.g.resources
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.Properties.Resources.resources
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.GenerateResource.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.CoreCompileInputs.cache
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.CopyComplete
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.exe
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.pdb
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\InsertPage.g.cs
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\InsertPage.baml
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HelthCareExcaptionLibrary.dll
+C:\Users\ccesu\OneDrive\Desktop\whatsapp\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HelthCareExcaptionLibrary.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.exe.config
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.exe
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareBLL.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HelthCareExcaptionLibrary.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.dll
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareBLL.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HelthCareExcaptionLibrary.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.pdb
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.dll.config
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.AssemblyReference.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Delete.g.cs
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\InsertPage.g.cs
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\MainWindow.g.cs
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Update.g.cs
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\View.g.cs
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\App.g.cs
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf_MarkupCompile.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf_MarkupCompile.lref
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Delete.baml
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\InsertPage.baml
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\MainWindow.baml
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Update.baml
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\View.baml
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.g.resources
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.Properties.Resources.resources
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.GenerateResource.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.CoreCompileInputs.cache
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.CopyComplete
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.exe
+C:\Users\ccesu\OneDrive\Desktop\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.exe.config
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.exe
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareWpf.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareBLL.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HelthCareExcaptionLibrary.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.dll
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareBLL.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HelthCareExcaptionLibrary.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.pdb
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\bin\Debug\HealthcareDAL.dll.config
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.AssemblyReference.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.SuggestedBindingRedirects.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Delete.g.cs
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\InsertPage.g.cs
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\MainWindow.g.cs
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Update.g.cs
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\View.g.cs
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\App.g.cs
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf_MarkupCompile.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf_MarkupCompile.lref
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Delete.baml
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\InsertPage.baml
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\MainWindow.baml
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\Update.baml
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\View.baml
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.g.resources
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.Properties.Resources.resources
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.GenerateResource.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.CoreCompileInputs.cache
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.csproj.CopyComplete
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.exe
+E:\Capgemini Traning\project\Hospital\Hospital\HealthcareWpf\HealthcareWpf\obj\Debug\HealthcareWpf.pdb
